@@ -101,6 +101,6 @@ La persistencia de datos en servicios como JSONPlaceholder es temporal y no se a
 La aplicación está desarrollada y optimizada para ejecutarse en navegador (Chrome preferentemente).
 
 <h3>👩‍💻 Autor</h3>
-Tu nombre: María Guadalupe Huerta Reséndiz
+Nombre: María Guadalupe Huerta Reséndiz
 
 Correo: guadalupehr.itic19@gmail.com
